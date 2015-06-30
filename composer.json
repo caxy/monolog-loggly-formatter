@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Caxy\\Monolog\\Formatter\\": ""
+            "Caxy\\Monolog\\Formatter\\": "src"
         }
     },
     "extra": {
